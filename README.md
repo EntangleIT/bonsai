@@ -1,3 +1,9 @@
+# Bonsai is a Bitcoin & Lightning AI Studio Integrated P2P Development Environment that makes it fun to write code and solve problems with rewards for tasks, and tight Bitcoin feature integration.  Gamified, but no game, this is for serious software development on the scalable Bitcoin SV or other compatible blockchains.
+
+###################################################
+# Original Repo Comments below:
+###################################################
+
 # Visual Studio Code - Open Source ("Code - OSS")
 
 [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
